@@ -115,10 +115,7 @@ thisisthelife9696@gmail.com
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=TT0304"/>
         </td> 
     </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=TT0304&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
+    <tr></tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TT0304&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
