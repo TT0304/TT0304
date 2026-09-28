@@ -1,13 +1,13 @@
 # Hi there 👋, I am a software Engineer but
 
-### Web/App/Cloud Engineer
+### Web/Machine Learning Engineer
 Proficient in both front and backend techs, I have a proven track record of delivering high-quality software solutions.
 
 - 🔭 I’m currently working on: React, React Native, Next.js, Ionic, Vue, Nuxt, Expo, Web3, GraphQL, Node.js, Laravel, CI/CD, AWS, 
-- 🌱 I’m currently learning: Blockchain, Solidity Programming
+- 🌱 I’m currently learning: AI Researching, LLM fine-tuning, TensorFlow or PyTorch
 
 ### Contact me
-thisisthelife9696@gmail.com
+rhome0101@gmail.com
 
 ### Toolset
 <table>
