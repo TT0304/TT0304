@@ -1,10 +1,10 @@
 # Hi there 👋, I am a software Engineer but
 
 ### Web/Machine Learning Engineer
-Proficient in both front and backend techs, I have a proven track record of delivering high-quality software solutions.
+Proficient in both AI and full-stack techs, I have a proven track record of delivering high-quality software solutions.
 
 - 🔭 I’m currently working on: React, React Native, Next.js, Ionic, Vue, Nuxt, Expo, Web3, GraphQL, Node.js, Laravel, CI/CD, AWS, 
-- 🌱 I’m currently learning: AI Researching, LLM fine-tuning, TensorFlow or PyTorch
+- 🌱 I’m currently learning: LLM, RAG, Prompt Engineering, AI Researching, fine-tuning, TensorFlow or PyTorch
 
 ### Contact me
 rhome0101@gmail.com
